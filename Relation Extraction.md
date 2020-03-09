@@ -18,13 +18,13 @@
 | **(2016)[**Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification**](https://www.aclweb.org/anthology/P16-2034.pdf)**(495)** | **Bi-LSTM + Attention**                                      |
 | **(2016)**[**Bidirectional Recurrent Convolutional Neural Network for Relation Classification**](https://www.aclweb.org/anthology/P16-1072.pdf)**(82)** | **shortest dependency path (SDP) + Bi-LSTM + CNN**           |
 | **(2017)**[**Joint entity and relation extraction based on a hybrid neural network**](https://www.sciencedirect.com/science/article/abs/pii/S0925231217301613)**(63)** | **Bi-LSTM(entity extraction) + CNN（relation classification）** |
-| **(2017)**[**Combining Word-Level and Character-Level Representations for**](https://www.aclweb.org/anthology/W17-2606.pdf)** | **Bi-GRU + CNN**                                             |
+| **(2017)**[**Combining Word-Level and Character-Level Representations for**](https://www.aclweb.org/anthology/W17-2606.pdf)**(11)** | **Bi-GRU + CNN**                                             |
 | **(2017)**[**Cross-Sentence N-ary Relation Extraction with Graph LSTMs**](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00049)**(123)** | **graph LSTMs**                                              |
 | **(2020)**[**Semantic relation extraction using sequential and tree-structured LSTM with attention**](https://www.sciencedirect.com/science/article/pii/S0020025519308515)**(2)** | **tree-structured LSTM + attention**                         |
 
 ## Attention
 
-| **(2016)**[**Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification**](https://www.aclweb.org/anthology/P16-2034.pdf)(495)** | **Bi-LSTM + Attention**                               |
+| **(2016)**[**Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification**](https://www.aclweb.org/anthology/P16-2034.pdf)**(495)** | **Bi-LSTM + Attention**                               |
 | ------------------------------------------------------------ | ----------------------------------------------------- |
 | **(2016)**[**Relation Classification via Multi-Level Attention CNNs**](https://www.aclweb.org/anthology/P16-1123.pdf)**(182)** | **CNN + Multi-level Attention + ranking loss**        |
 | **(2017)**[**Designing an Adaptive Attention Mechanism for Relation Classification**](https://ieeexplore.ieee.org/abstract/document/7966407)**(12)** | **Entity-pair-based Attention Mechanism**             |
