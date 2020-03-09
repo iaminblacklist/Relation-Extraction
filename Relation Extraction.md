@@ -1,4 +1,4 @@
-# 关系抽取
+# Relation Extraction
 
 ## CNN
 
